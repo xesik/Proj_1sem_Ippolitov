@@ -9,7 +9,7 @@ magistr = {"Лермонтов", "Достоевский", "Пушкин", "Тю
 dombooks = {"Толстой", "Грибоедов", "Чехов", "Пушкин"}
 bookmarket = {"Пушкин", "Достоевский", "Маяковский"}
 galereya = {"Чехов", "Тютчев", "Пушкин"}
-if "Пушкин" in magistr and "Тютчев" in magistr:
+if "Пушкин" in magistr and "Тютчев" in magistr:    # Проверка на наличие Пушкина и Тютчева
     print("magistr")
 if "Пушкин" in dombooks and "Тютчев" in dombooks:
     print("domKnigi")
