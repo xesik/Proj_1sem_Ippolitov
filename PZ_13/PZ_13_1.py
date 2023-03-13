@@ -1,3 +1,4 @@
+# В матрице элементы последней строки заменить на 0.
 from random import randint
 a = []
 for i in range(3):
