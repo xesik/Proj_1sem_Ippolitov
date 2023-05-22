@@ -2,7 +2,7 @@ a = 15
 
 
 def square_perimeter(f=a):
-    return f**4
+    return f*4
 
 
 def square_area(f=a):
